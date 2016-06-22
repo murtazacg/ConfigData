@@ -1,4 +1,4 @@
 ---
 wordConfig:
-  luckyWord: "Foo Bar"
+  luckyWord: "RabbitMQ"
   preamble: "Lucky word is"
