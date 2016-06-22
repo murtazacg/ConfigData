@@ -1,4 +1,4 @@
 ---
 wordConfig:
-  luckyWord: "Bar"
+  luckyWord: "Foo Bar"
   preamble: "Lucky word is"
